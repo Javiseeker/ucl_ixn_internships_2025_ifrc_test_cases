@@ -1,4 +1,4 @@
-Country ID,Disaster Type ID,Relevance,Coherence,Fluency,RR Question Relevance,Uniqueness
+Country ID,Disaster Type ID,Consistency,Coherence,Fluency,Relevance,Uniqueness
 93,12,5.0,5.0,5.0,5.0,5
 123,2,4.0,5.0,5.0,4.6,4
 47,12,4.8,5.0,5.0,5.0,5
